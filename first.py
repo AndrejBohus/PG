@@ -4,4 +4,5 @@ def sudy_nebo_lichy(cislo):
     else:
         print(f"Číslo {cislo} je liché")
 if __name__ == "__main__":
-    sudy_nebo_lichy(3541463541)
+    sudy_nebo_lichy(5)
+    sudy_nebo_lichy(1000000)
